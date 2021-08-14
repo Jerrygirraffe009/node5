@@ -1,6 +1,1 @@
-
-function sayHello() {
-console.log ("Hello")
-}
-
-sayHello()
+This is ApplicationCache.js
