@@ -7,3 +7,5 @@ modifying indexedDB.html
 this is another changes
 
 this is anothe RTCDTMFToneChangeEvent
+
+made updates to MediaDeviceInfo
