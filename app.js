@@ -13,3 +13,7 @@ Added feature 1.2
 Added some lines directly in MAIN
 
 Add some lines in MAIN 2
+
+Add lines in MAIN 3
+
+Added lines in ApplicationCache.js MAIN 4
